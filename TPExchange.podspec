@@ -16,5 +16,5 @@ Pod::Spec.new do |spec|
   spec.user_target_xcconfig =   {'OTHER_LDFLAGS' => ['-lObjC']}
   spec.vendored_frameworks = 'TPExchange/TPExchange.framework'
   spec.resource = 'TPExchange/TradPlusADX.bundle'
-  spec.dependency "TradPlusAdSDK", "~>10.4.0"
+  spec.dependency "TradPlusAdSDK", "~>10.3.0"
 end
