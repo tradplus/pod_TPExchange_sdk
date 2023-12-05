@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TPExchange"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.2"
   spec.summary      = "TradPlus TPExchange for iOS."
   spec.description  = <<-DESC
             TradPlusSDK TPExchange for iOS. 
@@ -16,5 +16,4 @@ Pod::Spec.new do |spec|
   spec.user_target_xcconfig =   {'OTHER_LDFLAGS' => ['-lObjC']}
   spec.vendored_frameworks = 'TPExchange/TPExchange.framework'
   spec.resource = 'TPExchange/TradPlusADX.bundle'
-  spec.dependency "TradPlusAdSDK", "~>10.3.0"
 end
