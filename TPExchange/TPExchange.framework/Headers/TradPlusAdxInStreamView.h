@@ -12,15 +12,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface TradPlusAdxInStreamView : UIView
 
-- (void)setup;
-- (void)addTaps;
-
 @property (nonatomic,weak)IBOutlet UILabel *ctaLable;
 @property (nonatomic,weak)IBOutlet UILabel *timeLabel;
 @property (nonatomic,weak)IBOutlet UILabel *skipLabel;
 
-@property (nonatomic,copy) void (^ctaCallback)(void);
-@property (nonatomic,copy) void (^skipCallback)(void);
 @end
 
 NS_ASSUME_NONNULL_END
