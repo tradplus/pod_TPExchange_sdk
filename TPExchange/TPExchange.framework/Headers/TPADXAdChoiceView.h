@@ -13,6 +13,9 @@ NS_ASSUME_NONNULL_BEGIN
 @interface TPADXAdChoiceView : UIButton
 
 - (void)setup;
+
+@property (nonatomic,assign)BOOL hasERIDInfo;
+@property (nonatomic,copy) void (^showERIDAct)(void);
 @end
 
 NS_ASSUME_NONNULL_END

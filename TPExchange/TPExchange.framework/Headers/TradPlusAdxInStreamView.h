@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,weak)IBOutlet UILabel *timeLabel;
 @property (nonatomic,weak)IBOutlet UILabel *skipLabel;
 
+- (void)showERIDInfo;
 @end
 
 NS_ASSUME_NONNULL_END

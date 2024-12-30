@@ -8,7 +8,6 @@
 
 #import <TPExchange/TradPlusADXBase.h>
 
-
 NS_ASSUME_NONNULL_BEGIN
 
 @protocol TradPlusADXInStreamDelegate;
@@ -25,7 +24,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,assign)BOOL useVideoStreaming;
 @property (nonatomic,assign)NSTimeInterval loadVideoTimeout;
 
-- (void)startWithAdView:(UIView *)adView customView:(UIView *)customView;
+- (void)startWithAdView:(nullable UIView *)adView customView:(UIView *)customView;
 - (void)pauseAct;
 - (void)skipAct;
 - (void)resumeAct;
