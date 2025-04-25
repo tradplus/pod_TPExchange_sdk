@@ -18,6 +18,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,copy)NSString *ecpm;
 @property (nonatomic,copy)NSString *placementId;
 @property (nonatomic,assign)BOOL parseCNData;
+@property (nonatomic,assign)CGFloat customWindowLevel;
 @end
 
 NS_ASSUME_NONNULL_END

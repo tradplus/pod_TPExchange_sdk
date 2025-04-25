@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TPExchange"
-  spec.version      = "13.2.20"
+  spec.version      = "13.7.0"
   spec.summary      = "TradPlus TPExchange for iOS."
   spec.description  = <<-DESC
             TradPlusSDK TPExchange for iOS. 
