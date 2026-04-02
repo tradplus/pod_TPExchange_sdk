@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/TradPlusAds.framework/Info.plist</key>
-		<data>
-		9UfESzfOfNDiJAjnNOCS9ZT4Qu0=
-		</data>
-		<key>Frameworks/TradPlusAds.framework/TradPlusAds</key>
-		<data>
-		/OSrFl6vrN4Y9eZTYdPNV9uxQMI=
-		</data>
-		<key>Frameworks/TradPlusAds.framework/_CodeSignature/CodeResources</key>
-		<data>
-		RZKOzSdP5pkwaxe1kFMXmhHQukA=
-		</data>
 		<key>Headers/TPADXAdChoiceView.h</key>
 		<data>
 		HvHdiV8CFa/Y6sAGqBCbsfpkToQ=
@@ -103,27 +91,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/TradPlusAds.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WK2jUthcdgRf3GqEmA+1GLles4Y0U/y4YCcmlT40SFM=
-			</data>
-		</dict>
-		<key>Frameworks/TradPlusAds.framework/TradPlusAds</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4ivHMRAIrJAM3RZ7yG/JQAwjg0KxP/eJFz/DU7b8bR0=
-			</data>
-		</dict>
-		<key>Frameworks/TradPlusAds.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+87qbKy0J3jE4EDutnjS22QlqXz4feZmm6h55/jZVrI=
-			</data>
-		</dict>
 		<key>Headers/TPADXAdChoiceView.h</key>
 		<dict>
 			<key>hash2</key>
