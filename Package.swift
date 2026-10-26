@@ -36,8 +36,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "TPExchange",
-            url: "https://github.com/tradplus/pod_TPExchange_sdk/releases/download/13.8.70/TPExchange-13.8.70.xcframework.zip",
-            checksum: "9d8cbe08f0cb6d1e24fb9ce2c88b663447226ea37fcc7166414756605a1b59ba"
+            url: "https://github.com/tradplus/pod_TPExchange_sdk/releases/download/13.8.80/TPExchange-13.8.80.xcframework.zip",
+            checksum: "e06fb6739632acea5adbdd7df3f7428042f2f2e84b113f62f72f25c1e01ba9da"
         ),
     ]
 )
